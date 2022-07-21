@@ -1,0 +1,37 @@
+username: <email or phone number>
+password: <your password>
+
+
+positions:
+- Software Developer
+- Developer
+- Software Engineer
+- Software Intern
+- Data Scientist
+- Engineer Intern
+
+
+
+locations:
+- Remote
+- Orange County
+- Los Angelas
+
+
+
+# --------- Optional Parameters -------
+# uploads:
+Resume: "/dylannguyenresume.pdf"
+#  Cover Letter: # PATH TO cover letter
+#  Photo: # PATH TO photo
+
+
+# output_filename:
+# - # PATH TO OUTPUT FILE (default output.csv)
+
+# blacklist:
+# - # Company names you want to ignore
+
+blackListTitles:
+- Business Analyst
+- Operations Analyst

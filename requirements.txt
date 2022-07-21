@@ -1,0 +1,7 @@
+selenium
+webdriver_manager
+PyYAML
+lxml
+beautifulsoup4
+pandas
+pyautogui
